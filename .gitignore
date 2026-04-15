@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+outputs/
+*.mp4
+*.wav
+*.png
+*.jpg
+*.pt
+*.onnx
+.cache/
